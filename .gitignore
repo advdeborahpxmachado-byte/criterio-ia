@@ -1,0 +1,9 @@
+.vercel/
+.vercelignore
+*.log
+Thumbs.db
+.DS_Store
+
+# Materiais internos — não publicar em repositório público
+docs/
+criterio-ia-model.html
